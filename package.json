@@ -1,6 +1,5 @@
 {
-  "name": "peaq",
-  "private": true,
+  "name": "site",
   "version": "0.0.0",
   "homepage": "https://peaqnut.github.io/site/",
   "type": "module",
