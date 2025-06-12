@@ -29,7 +29,7 @@ function App() {
         </div>
 
         <div class="cards mt-15 flex justify-center space-x-4">
-          <a href="https://discord.gg/cfj2JfGQbk">
+          <a href="">
             <button type='primary' class="bg-[#ffffff] hover:bg-[#eaeaea] relative size-20 flex items-center justify-center">
               <Icon icon={discordIcon} color='#fb6376' class="size-10"/>
             </button>
