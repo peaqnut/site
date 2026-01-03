@@ -6,6 +6,8 @@ import discordIcon from "@iconify/icons-simple-icons/discord";
 import itchIcon from "@iconify/icons-simple-icons/itchdotio";
 import Wave from 'react-wavify';
 
+// whoever visits this, please back out. you'll hate every moment this
+
 function App() {
   const [count, setCount] = useState(0)
 
@@ -13,7 +15,7 @@ function App() {
     <div class="static flex items-center justify-center">
           <Wave fill='#FFE3A2'
           paused={false}
-          style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '200%', zIndex: -1}}
+          style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '222%', zIndex: -1}}
           options={{
             height: 300,
             amplitude: 20,
@@ -53,10 +55,9 @@ function App() {
         <div className="element" class="text-center mt-75 grid grid-cols-3 grid-flow-col grid-rows-3 gap-4">
           <img src={"./holdphone.png"} class="w-50 row-span-3"></img>
           <div class="col-span-2 pt-12">
-            <h1 class="text-5xl white font-fredoka">big text!</h1>
-            <h3 class="text-3xl white font-fredoka">im heavily dissapointed in you.</h3>
-          </div>
-          
+            <h1 class="text-6xl white font-fredoka">big text!</h1>
+            <h3 class="text-3xl white font-fredoka">to be honest i dont know what to put here, i dont have much to show for myself. just wanted an excuse to make this site</h3>
+          </div> 
         </div>
 
       </div>
